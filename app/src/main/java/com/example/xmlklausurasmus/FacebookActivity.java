@@ -14,6 +14,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.example.xmlklausurasmus.db.DatabaseHelperOpen;
 import com.example.xmlklausurasmus.db.User;
 
+/**
+ * commit text for github
+ */
 public class FacebookActivity extends AppCompatActivity implements View.OnClickListener {
 
     private static final String TABLE_FBUSER = "tbl_facebook";
