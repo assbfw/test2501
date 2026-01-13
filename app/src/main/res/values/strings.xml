@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">XMLKLausurAsmus</string>
+    <string name="xml_klausur">XML Klausur</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_via_facebook_or_twittter">sign in via facebook or twittter</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="nico_assmus">Nico Assmus</string>
+    <string name="or_enter_your_acount_info">or enter your acount info</string>
+    <string name="passwort">Passwort</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="login_mit_facebook">Login mit Facebook</string>
+    <string name="twitter_login">Twitter Login</string>
+    <string name="passwort_vergessen">Passwort vergessen</string>
+    <string name="hauptmen">Hauptmenü</string>
+    <string name="benutzername">Benutzername</string>
+    <string name="mit_twitteraccount_anmelden">Mit Twitteraccount anmelden</string>
+    <string name="mit_facebookaccount_anmelden">Mit Facebookaccount anmelden</string>
+    <string name="benutzername_oder_passwort_falsch">Benutzername oder Passwort falsch</string>
+    <string name="sie_sind_noch_nicht_registriert">Sie sind noch nicht registriert</string>
+    <string name="nias">nias</string>
+    <string name="geheim">geheim</string>
+    <string name="passwort_best_tigen">Passwort bestätigen</string>
+    <string name="speichern">Speichern</string>
+</resources>
