@@ -17,7 +17,7 @@ import java.util.Locale;
 
 
 public class DatabaseHelperOpen extends SQLiteOpenHelper {
-
+    // TODO hier gehts mit dem DB-Handler weiter
     private final Context context;
     private SQLiteDatabase database;
 
